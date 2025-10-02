@@ -1,0 +1,3 @@
+/home/caiwenbo/桌面/homework_3/build/CMakeFiles/work3.dir
+/home/caiwenbo/桌面/homework_3/build/CMakeFiles/edit_cache.dir
+/home/caiwenbo/桌面/homework_3/build/CMakeFiles/rebuild_cache.dir

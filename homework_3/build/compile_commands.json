@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/caiwenbo/桌面/homework_3/build",
+  "command": "/usr/bin/c++ -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -g -o CMakeFiles/work3.dir/main.cpp.o -c /home/caiwenbo/桌面/homework_3/main.cpp",
+  "file": "/home/caiwenbo/桌面/homework_3/main.cpp"
+}
+]
